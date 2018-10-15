@@ -4,10 +4,20 @@ html {
 
 body {
     height: 100%;
+    background-color:red;
     
+    
+}
+
+.navbar{
+    display:flex;
+     justify-content:space-between ;
+     background-color:white;
+     width:;
 }
 a {
     text-decoration: none;
+
 }
 
 .main {
