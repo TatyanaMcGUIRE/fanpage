@@ -11,19 +11,24 @@ body {
 
 .navbar{
     display:flex;
-     justify-content:space-between ;
+     justify-content:space-around ;
      background-color:white;
-     width:;
+     width: 100%;
+     
 }
 a {
     text-decoration: none;
 
 }
 
-.main {
-    height: 100%;
-}
+ 
 .social-image{
     width: 30px;
     margin: 15px;
+}
+.food{
+    width: 100%;
+}
+.pizza{ 
+    width: 30%;
 }
