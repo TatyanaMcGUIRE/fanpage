@@ -12,7 +12,7 @@ body {
 .navbar{
     display:flex;
      justify-content:space-around ;
-     background-color:white;
+     background-color:green;
      width: 100%;
      
 }
@@ -29,6 +29,6 @@ a {
 .food{
     width: 100%;
 }
-.pizza{ 
-    width: 30%;
+.thumbnail-image{
+    width: 100%;
 }
